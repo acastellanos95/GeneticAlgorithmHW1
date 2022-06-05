@@ -1,0 +1,1 @@
+./GeneticAlgorithm 0.3 0.8 2 6 0.1346 Y > corridaPunto4.txt
